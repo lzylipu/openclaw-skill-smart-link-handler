@@ -16,8 +16,8 @@ from typing import List, Dict, Any, Optional
 from datetime import datetime
 
 # ==================== 配置区域 ====================
-QAS_ENDPOINT = os.environ.get("QAS_ENDPOINT", "http://YOUR_SERVER_IP:5015")
-QAS_TOKEN = os.environ.get("QAS_TOKEN", "YOUR_QAS_TOKEN")
+QAS_ENDPOINT = os.environ.get("QAS_ENDPOINT")
+QAS_TOKEN = os.environ.get("QAS_TOKEN")
 QAS_SAVE_ROOT = os.environ.get("QAS_SAVE_ROOT", "自动")
 
 # ==================== 规则配置 ====================
