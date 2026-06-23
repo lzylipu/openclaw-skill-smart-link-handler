@@ -18,7 +18,7 @@ metadata:
   hermes:
     tags: [quark, youtube, bilibili, download, video, link, 夸克, 下载, 链接]
     related_skills: [daily-morning-brief, vpn-connect]
-    homepage: https://github.com/lzylipu/openclaw-skill-smart-link-handler
+    homepage: https://github.com/lzylipu/skill-smart-link-handler
     category: personal
     skill_type: automation
 ---
