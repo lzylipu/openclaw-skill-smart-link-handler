@@ -1,5 +1,7 @@
 # Smart Link Handler
 
+**[English](./README.md) | [中文](./README.zh-CN.md)**
+
 Auto-detect Quark/YouTube/Bilibili links and trigger downloads.
 
 ## Features
