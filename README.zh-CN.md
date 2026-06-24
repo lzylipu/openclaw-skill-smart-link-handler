@@ -1,6 +1,6 @@
 # 智能链接处理
 
-**[English](./README.md) | [中文](./README.zh-CN.md)**
+**[English](./README.md) | 中文**
 
 自动识别夸克/YouTube/B站链接并触发下载。
 
